@@ -1,0 +1,9 @@
+modules = ["python-3.12", "main.py"]
+
+[nix]
+channel = "stable-24_05"
+packages = ["gobject-introspection", "gtk3", "libayatana-appindicator", "xvfb-run"]
+
+[[ports]]
+localPort = 80
+externalPort = 80

@@ -1,9 +1,9 @@
 from __future__ import annotations
-
+from background import keep_alive
 # import an additional thing for proper PyInstaller freeze support
 from multiprocessing import freeze_support
 
-
+keep_alive()
 if __name__ == "__main__":
     freeze_support()
     import io
