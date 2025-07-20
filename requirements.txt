@@ -1,7 +1,7 @@
+pystray
 aiohttp
 Pillow
 six
-pystray==0.19.4
 requests
 pywin32; sys_platform == "win32"
 truststore
