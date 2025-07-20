@@ -1,0 +1,25 @@
+{
+    "autostart_tray": false,
+    "connection_quality": 1,
+    "exclude": {
+        "__type": "set",
+        "data": []
+    },
+    "language": "English",
+    "priority": [
+        "Albion Online",
+        "Marvel Rivals",
+        "Once Human",
+        "STALCRAFT: X",
+        "Rust"
+    ],
+    "priority_mode": {
+        "__type": "PriorityMode",
+        "data": 0
+    },
+    "proxy": {
+        "__type": "URL",
+        "data": ""
+    },
+    "tray_notifications": true
+}
