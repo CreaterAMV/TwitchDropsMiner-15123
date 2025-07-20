@@ -1,5 +1,6 @@
 aiohttp
 Pillow
+six
 pystray
 requests
 pywin32; sys_platform == "win32"
