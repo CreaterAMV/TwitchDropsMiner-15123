@@ -1,8 +1,6 @@
-aiohttp>=3.9,<4.0
+aiohttp
 Pillow
 pystray
-PyGObject
 requests
-# environment-dependent dependencies
 pywin32; sys_platform == "win32"
 truststore
